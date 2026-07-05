@@ -1,0 +1,22 @@
+{
+  "wheel_id": 79,
+  "slug": "homeloanbrokergoldcoast-101",
+  "project": "refinancing-gold-coast-comparison-homeloanbrokergoldcoast-101",
+  "parent_t1_ref": "homeloanbrokergoldcoast-002",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "refinancing gold coast comparison",
+  "intended_url": "https://sitesau.github.io/refinancing-gold-coast-comparison-homeloanbrokergoldcoast-101/",
+  "links": [
+    {
+      "target_url": "https://refinancing-gold-coast-homeloanbrokergoldcoast-150.vercel.app/",
+      "anchor": "refinancing gold coast",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://refinancing-gold-coast-homeloanbrokergoldcoast-150.vercel.app/",
+      "anchor": "refinancing gold coast",
+      "rel": "follow"
+    }
+  ]
+}
